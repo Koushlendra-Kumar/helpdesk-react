@@ -51,7 +51,7 @@ const SignIn = () => {
           </button>
         </form>
         <div className="flex justify-between items-center w-full mt-8 mb-12">
-          <Link to="/forgotPass" className="text-red-600">
+          <Link to="/resetPass" className="text-red-600">
             Forgot password?
           </Link>
           <Link
