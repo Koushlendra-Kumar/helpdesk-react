@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+tr:nth-child(even) {
+    background-color: rgba(196, 196, 196, 0.37);
+}
+tr:nth-child(odd){
+    background-color: rgba(196, 196, 196, 0.56);
+}
